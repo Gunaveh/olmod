@@ -4,6 +4,7 @@ bin/
 obj/
 Release/
 *.dll
+packages/
 *.exe
 *.pdb
 UnityEngine*.xml
@@ -14,3 +15,7 @@ UnityEngine*.xml
 *.o
 *.so
 *.vcxproj.user
+olgetdata/olgetdata.csproj
+olgetdata/packages.config
+GameMod/packages.config
+
